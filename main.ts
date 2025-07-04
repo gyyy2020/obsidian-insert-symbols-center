@@ -1,4 +1,4 @@
-import { App, Editor, MarkdownView, Plugin, Modal } from 'obsidian';
+import { App, Editor, Plugin, Modal } from 'obsidian';
 
 /**
  * Special Symbols Insert Plugin for Obsidian
