@@ -1,10 +1,10 @@
 {
-  "id": "ob-insert-sbs",
-  "name": "Special Symbols Insert",
+  "id": "ob-insert-spsymbols-center",
+  "name": "SpSymbols Insert Ctr",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
   "description": "Insert special symbols (arrows, math, Greek letters) through a category-based menu.",
-  "author": "Your Name",
+  "author": "superxpe",
   "authorUrl": "https://github.com/yourusername",
   "isDesktopOnly": false
 }
